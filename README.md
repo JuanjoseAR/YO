@@ -13,10 +13,12 @@ estoy interesado en la tecnología, desarrollo de software, ando en constante ap
 **Estoy dispuesto a**
 * Colaboración en proyectos de dedsarrollo
 * Contribuición a proyectos open-source
-* Trabajar con profecionales o investigadores en campos a fines
+* Trabajar con profecionales e investigadores en esta área
 
 **Habilidades:**
 
-![1](https://github.com/user-attachments/assets/be9976a2-0e13-4d20-b9dd-5baab4809ac3)
-![2](https://github.com/user-attachments/assets/6be4e476-c25f-4605-abad-7e3a2cf5688b)
-![3](https://github.com/user-attachments/assets/48a0de1b-a381-4e27-89c8-e9e0ae62a4e6)
+![1](https://github.com/user-attachments/assets/36259da1-c65c-4175-ba91-4ed7066d3116)
+![2](https://github.com/user-attachments/assets/dbac0593-be71-4c4a-a316-0c8e1094ce1d)
+![3](https://github.com/user-attachments/assets/e5181f94-8828-473a-a2f3-12dcd8cb6251)
+
+
