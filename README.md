@@ -16,4 +16,7 @@ estoy interesado en la tecnología, desarrollo de software, ando en constante ap
 * Trabajar con profecionales o investigadores en campos a fines
 
 **Habilidades:**
-![Java](https://github.com/user-attachments/assets/5dafa04b-7737-44e9-853e-9f953d256134)
+
+![1](https://github.com/user-attachments/assets/be9976a2-0e13-4d20-b9dd-5baab4809ac3)
+![2](https://github.com/user-attachments/assets/6be4e476-c25f-4605-abad-7e3a2cf5688b)
+![3](https://github.com/user-attachments/assets/48a0de1b-a381-4e27-89c8-e9e0ae62a4e6)
