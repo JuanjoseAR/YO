@@ -1,7 +1,7 @@
 # YO
 Hola todos, soy Juan José Arango Rodriguez.
 
-soy estudiante de **_ingenieria de sistemas_** de la **Universiad del Magdalena**, actualmente en octavo semestre.
+soy estudiante de **_ingenieria de sistemas_** de la **Universiad del Magdalena**, actualmente en noveno semestre.
 estoy interesado en la tecnología, desarrollo de software, ando en constante aprendizaje y creciendo en esta área. 
 
 **Mis intereses de inestigacion y profecionales**
